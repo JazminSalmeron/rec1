@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Recuperacion1</string>
+<string name="input_first_number">Input first number</string>
+<string name="calculate">Calculate</string>
+<string name="value_letter_t">Value letter T</string>
+<string name="_t2_2t_7__t">t^2-2t+7/t</string>
+<string-array name="operations">
+    <item>t^2-2t+7/t</item>
+</string-array>
+
+
+</resources>
